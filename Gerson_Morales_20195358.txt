@@ -2,6 +2,6 @@ progra2
 balbino aylagas
 esen feb 2021
 
-nombre completo: Gerson Aarón Morales Deras
+nombre completo: Gerson Aarón Morales Deras 20195358
 github url: https://github.com/GerMorales/ParcialPrograII.git
 progra2
